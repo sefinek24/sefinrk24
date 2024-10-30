@@ -51,6 +51,6 @@ export default [
 			'wrap-regex': 'error',
 			'yoda': 'error'
 		},
-		ignores: ['node_modules', 'public/js/bootstrap.bundle.min.js']
+		ignores: ['node_modules']
 	}
 ];

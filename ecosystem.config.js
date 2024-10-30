@@ -1,6 +1,6 @@
 module.exports = {
 	apps: [{
-		name: 'sefinek24',
+		name: 'sefinek',
 		script: './index.js',
 
 		// Configuration options

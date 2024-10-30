@@ -45,5 +45,5 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/sefinek24/sefinek24/snake/github-snake-dark.svg" alt="Snake">
+    <img src="https://raw.githubusercontent.com/sefinek/sefinek/snake/github-snake-dark.svg" alt="Snake">
 </div>

@@ -1,16 +1,17 @@
 {
-  "name": "sefinek24",
+  "name": "sefinek",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "license": "ISC",
   "author": "",
-  "main": ".eslintrc.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "up": "ncu -u && npm install && npm update && npm audit fix"
   },
   "devDependencies": {
-    "@eslint/js": "^9.9.1",
-    "globals": "^15.9.0"
+    "@eslint/js": "^9.13.0",
+    "globals": "^15.11.0"
   }
 }
