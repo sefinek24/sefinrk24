@@ -35,13 +35,12 @@
 
 ### 😻 〢 Meow
 <div align="center">
-    <img src="images/nekos.gif" alt="nekos.gif">
-    <br><br>
     <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-        <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile view statistics. They have been collected since 02/12/2024.">    
+        <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024.">    
     </a>
     <br>
-    <i>Statistics have been collected since 02/12/2024.</i>
+    <img src="images/nekos.gif" alt="nekos.gif">
+    <br><br>
 </div>
 
 <div align="center">
