@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> I recently updated my GitHub username from `sefinek24` to `sefinek`. Please make sure to update any associated links!  
+> I recently updated my GitHub username from `sefinek24` to `sefinek`. Please make sure to update any associated links (:   
 > https://github.com/sefinek24 -> https://github.com/sefinek  
 > https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek
 
