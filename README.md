@@ -40,7 +40,8 @@
     </a>
     <br>
     <img src="images/nekos.gif" alt="nekos.gif">
-    <br><br>
+    <br>
+    <a href="https://pixai.art/artwork/1765894393429702418/relevant" target="_blank"><img src="images/pixel-art.png" alt="pixel-art.png"></a>
 </div>
 
 <div align="center">
