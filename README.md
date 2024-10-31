@@ -39,7 +39,7 @@
     <img src="images/nekos.gif" alt="nekos.gif">
     <br><br>
     <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
-        <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024.">    
+        <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
     </a>
 </div>
 
