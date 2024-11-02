@@ -1,7 +1,7 @@
 > [!IMPORTANT]
-> I recently updated my GitHub username from `sefinek` to `sefinek`. Please make sure to update any associated links (:   
-> https://github.com/sefinek -> https://github.com/sefinek  
-> https://raw.githubusercontent.com/sefinek -> https://raw.githubusercontent.com/sefinek
+> I recently updated my GitHub username from `sefinek24` to `sefinek`. Please make sure to update any associated links (:   
+> https://github.com/sefinek24 -> https://github.com/sefinek  
+> https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek
 
 <img src="images/neko.png" alt="Anime Girl Programming Wallpaper">
 
