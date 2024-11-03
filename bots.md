@@ -1,6 +1,6 @@
 ## 1
 ```js
-grex "bot" "crawl" "facebook" "fetcher" "ia_archiver" "indexer" "scanner" "scraper" "scrapy" "screaming frog" "sistrix" "slurp" "spider" "yahoo" "domainsproject.org"
+grex "bot" "crawl" "facebook" "fetcher" "ia_archiver" "indexer" "scanner" "scraper" "scrapy" "screaming frog" "sistrix" "slurp" "spider" "yahoo" "domainsproject.org" "freepublicapis"
 ```
 
 ```js
@@ -9,7 +9,7 @@ s(?:cr(?:eaming frog|apy)|istrix|lurp)|i(?:a_archiv|ndex)er|facebook|scraper|(?:
 
 ## 2
 ```js
-grex "bot" "crawl" "facebook" "fetcher" "ia_archiver" "indexer" "scanner" "scraper" "scrapy" "screaming frog" "sistrix" "slurp" "spider" "yahoo" "domainsproject.org" "curl" "wget" "jest" "python" "axios" "postman" "httpclient" "go-http-client" "okhttp" "phantomjs" "puppeteer" "java" "guzzlehttp" "libwww-perl" "node"
+grex "bot" "crawl" "facebook" "fetcher" "ia_archiver" "indexer" "scanner" "scraper" "scrapy" "screaming frog" "sistrix" "slurp" "spider" "yahoo" "domainsproject.org" "freepublicapis" "curl" "wget" "jest" "python" "axios" "postman" "httpclient" "go-http-client" "okhttp" "phantomjs" "puppeteer" "java" "guzzlehttp" "libwww-perl" "node"
 ```
 
 ```js
