@@ -1,3 +1,0 @@
-grex "bot" "crawl" "spider" "scraper" "scanner" "indexer" "fetcher" "ia_archiver"
-
-/i(?:a_archiv|ndex)er|(?:s(?:c(?:ann|rap)|pid)|fetch)er|crawl|bot/i
