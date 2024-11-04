@@ -1,0 +1,1 @@
+.\WinDump.exe -i 1
