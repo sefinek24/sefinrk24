@@ -3,7 +3,8 @@
 > https://github.com/sefinek24 -> https://github.com/sefinek  
 > https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek
 
-<img src="images/neko.png" alt="Anime Girl Programming Wallpaper">
+[//]: # (<img src="images/neko.png" alt="Anime Girl Programming Wallpaper">)
+<a href="https://www.deviantart.com/meworin/art/--1074002891" target="_blank"><img src="images/by_meworin_dhrflxn.png" alt="Anime Girl Wallpaper"></a>
 
 <a href="https://wakatime.com/@Sefinek" target="_blank">
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sefinek&border_radius=13px&theme=dark&border_color=151515&range=all_time&custom_title=📊+〢+Sefinek%27s+Wakatime+stats" alt="Wakatime stats">
