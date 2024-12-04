@@ -36,8 +36,8 @@
 
 ### 😻 〢 Meow
 <div align="center">
-<a href="https://pixai.art/artwork/1765894393429702418/relevant" target="_blank"><img src="images/pixel-art.png" alt="pixel-art.png" height="190"></a>
     <img src="images/nekos.gif" alt="nekos.gif">
+    <img src="images/IMG_20230811_192301.jpg" height="280" alt=";P">
     <br><br>
     <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
         <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
