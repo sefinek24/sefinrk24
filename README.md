@@ -36,12 +36,10 @@
 
 ### 😻 〢 Meow
 <div align="center">
-    <img src="images/nekos.gif" alt="nekos.gif">
-    <img src="images/IMG_20230811_192301.jpg" height="280" alt=";P">
-    <br><br>
     <a href="https://sefinek.net/npm/moecounter.js/demo" target="_blank">
         <img src="https://api.sefinek.net/api/v2/moecounter/@Sefinek-GitHub-Profile?theme=default" alt="Sefinek MoeCounter" title="Profile views. Statistics have been collected since 12.02.2024 [DD.MM.YYYY].">    
     </a>
+    <img src="images/IMG_20230811_192301.jpg" height="280" alt=";P">
 </div>
 
 <div align="center">
