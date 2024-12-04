@@ -1,9 +1,10 @@
-> [!IMPORTANT]
-> I recently updated my GitHub username from `sefinek24` to `sefinek`. Please make sure to update any associated links (:   
-> https://github.com/sefinek24 -> https://github.com/sefinek  
-> https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek
-
+[//]: # (> [!IMPORTANT])
+[//]: # (> I recently updated my GitHub username from `sefinek24` to `sefinek`. Please make sure to update any associated links &#40;:   )
+[//]: # (> https://github.com/sefinek24 -> https://github.com/sefinek  )
+[//]: # (> https://raw.githubusercontent.com/sefinek24 -> https://raw.githubusercontent.com/sefinek)
 [//]: # (<img src="images/neko.png" alt="Anime Girl Programming Wallpaper">)
+
+
 <a href="https://www.deviantart.com/meworin/art/--1074002891" target="_blank"><img src="images/by_meworin_dhrflxn.png" alt="Anime Girl Wallpaper"></a>
 
 <a href="https://wakatime.com/@Sefinek" target="_blank">
